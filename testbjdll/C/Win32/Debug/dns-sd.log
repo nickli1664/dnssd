@@ -1,0 +1,7 @@
+﻿  dns-sd.c
+dns-sd.c(956): warning C4102: “Demo”: 未引用的标签
+  ClientCommon.c
+  正在生成代码...
+    正在创建库 Win32\Debug\dns-sd.lib 和对象 Win32\Debug\dns-sd.exp
+dnssd.lib(DLLStub.obj) : warning LNK4099: 未找到 PDB“vc80.pdb”(使用“dnssd.lib(DLLStub.obj)”或在“D:\testbjdll\C\Win32\Debug\vc80.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+  dns-sd.vcxproj -> D:\testbjdll\C\Win32\Debug\dns-sd.dll
